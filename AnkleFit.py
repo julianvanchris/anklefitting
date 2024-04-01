@@ -1,5 +1,5 @@
-from streamlit_webrtc import webrtc_streamer
-import av
+#from streamlit_webrtc import webrtc_streamer
+#import av
 import mediapipe as mp
 from math import sqrt, acos, degrees, sin, cos
 import cv2
